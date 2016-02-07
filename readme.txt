@@ -1,1 +1,1 @@
-This is a standard "read-me" file. I'm creating for my git challenge. Version control is important because it allows a person to track edits, giving control overthe process of creating and maintaing complext files and software.
+Another readme file.
